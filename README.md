@@ -12,7 +12,7 @@ A beginner-friendly educational notebook that explains how Recurrent Neural Netw
 - Gradient flow in RNNs
 - Conceptual diagrams and visual explanations
 
-## 🛠 Technologies Used
+## Technologies Used
 
 - Python
 - Jupyter Notebook
