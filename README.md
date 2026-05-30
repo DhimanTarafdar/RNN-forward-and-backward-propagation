@@ -2,7 +2,7 @@
 
 A beginner-friendly educational notebook that explains how Recurrent Neural Networks (RNNs) learn through **Forward Propagation** and **Backward Propagation Through Time (BPTT)**.
 
-## 📚 What You'll Learn
+## What You'll Learn
 
 - Introduction to Recurrent Neural Networks (RNNs)
 - Forward Propagation in sequential data
