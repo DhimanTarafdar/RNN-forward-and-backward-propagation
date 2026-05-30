@@ -23,7 +23,7 @@ A beginner-friendly educational notebook that explains how Recurrent Neural Netw
 
 This notebook was created as part of my deep learning learning journey to build a strong understanding of the mathematical intuition behind RNN training and sequence modeling.
 
-## 👨‍💻 Author
+
 
 **Dhiman Tarafdar**  
 B.Sc. in Computer Science & Engineering (CSE)  
